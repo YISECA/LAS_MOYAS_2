@@ -62,8 +62,8 @@
 			</label></div>
 
 
-       <div class="col-md-6"><input required type="text" class="form-control" id="primer_nombre" name="primer_nombre" ></div>
-       <div class="col-md-6"><input required type="text" class="form-control" id="segundo_nombre" name="segundo_nombre" value=" "></div>
+       <div class="col-md-6"><input required type="text" class="form-control" id="primer_nombre" name="primer_nombre" onkeyup="javascript:this.value=this.value.toUpperCase();" ></div>
+       <div class="col-md-6"><input required type="text" class="form-control" id="segundo_nombre" name="segundo_nombre"  onkeyup="javascript:this.value=this.value.toUpperCase();"></div>
 
 
        <div class="col-md-6"><label class="freebirdFormviewerViewItemsItemItemTitle" for="formGroupExampleInput2">Primer Apellido <span style="color: red;font-size: 11px;text-transform: capitalize;color:red">(Campo Obligatorio)</span></label>
@@ -82,8 +82,8 @@
 			</label></div>
 
 
-       <div class="col-md-6"><input required type="text" class="form-control" id="primer_apellido" name="primer_apellido" ></div>
-       <div class="col-md-6"><input required type="text" class="form-control" id="segundo_apellido" name="segundo_apellido" ></div>
+       <div class="col-md-6"><input required type="text" class="form-control" id="primer_apellido" name="primer_apellido"  onkeyup="javascript:this.value=this.value.toUpperCase();" ></div>
+       <div class="col-md-6"><input required type="text" class="form-control" id="segundo_apellido" name="segundo_apellido" onkeyup="javascript:this.value=this.value.toUpperCase();" ></div>
 
 
        <div class="col-md-6"><label class="freebirdFormviewerViewItemsItemItemTitle" for="formGroupExampleInput2">

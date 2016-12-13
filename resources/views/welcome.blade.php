@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata Las Moyas 11 de Diciembre de 2016</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata Sendero Horizontes - Las Moyas 18 de Diciembre de 2016</div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/verdillo.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/moyas.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                 <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/verdillo1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/moyas1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                   <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/verdillo3.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/moyas3.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -75,19 +75,21 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero se encuentra ubicada en la localidad 5 de Usme, entre los barrios Tihuaque y las Violetas, limita al norte con las localidades de San Cristóbal, Rafael Uribe y Tunjuelito; al sur con la localidad de Sumapaz, al oriente con los municipios de Ubaque y Chipaque y al occidente con la localidad de Ciudad Bolívar y el municipio de Pasca.</font></p>
+                        <p><font size="3">El sendero se encuentra ubicado en la localidad de Chapinero, entre la calle 76 con av. circunvalar y el Barrio San Luis vía a la Calera, limita al norte con la localidad de Usaquén y al sur con la localidad de santa fe.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en el barrio Tiuhaque, de allí se realiza un desplazamiento hasta el barrio las violetas donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad y se continuara con la caminata.</font></p>
+                        <p><font size="3">El recorrido da inicio en la calle 76 con Av. Circunvalar CAI Rosales, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad. Desde allí se realiza el desplazamiento hacia el inicio del sendero Horizontes, se continua por el sendero hasta la parte alta llegando al páramo, en el recorrido se pasa por tres antenas que nos conducen finalmente a las moyas.
+                        Las moyas son formaciones rocosas que fueron centro astronómico muisca, en este lugar los iniciados como “CHIQUIS”, o sacerdotes muiscas (chamanes) recorrían parte de su camino espiritual para consagrarse como líderes religiosos. En este sitio eran puestos a prueba mental física y emocionalmente. 
+                        La caminata termina en el barrio San Luis vía la Calera donde se toma el SITP que nos lleva a la calle 72.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Planta de tratamiento Yomasa</li>
-                            <li>Lago Yomasa</li>
-                            <li>Quebrada Yomasa</li>
-                            <li>Ecosistema de páramo</li>
+                            <li>Miradores</li>
+                            <li>Ecosistema de Sub-páramo</li>
+                            <li>Ecosistema de Páramo</li>
+                            <li>Las Moyas</li>
                             </font>
                         </ul>
                         <br>
@@ -108,22 +110,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Paradero de buses del barrio Tihuaque - Carrera 18 este con calle 86 sur antigua vía al llano</p>
-
-                                        </td>
-
-                                    </tr>
-                                     <tr valign="top">
-
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Barrio</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Tihuaque</p>
+                                            <p>CAI Rosales Av. Circunvalar calle 76 </p>
 
                                         </td>
 
@@ -139,7 +126,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 11 de Diciembre de 2016</p>
+                                            <p>Domingo 18 de Diciembre de 2016</p>
 
                                         </td>
 
@@ -171,7 +158,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>40 Personsa</p>
+                                            <p>50 Personsa</p>
 
                                         </td>
 
@@ -226,15 +213,15 @@
                                     </tr>
                                     <tr valign="top">
 
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+                                        <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
                                             <p>Nivel</p>
 
                                         </td>
 
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+                                        <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Alto</p>
+                                            <p>Muy Alto</p>
 
                                         </td>
 
@@ -249,7 +236,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3 - 4 horas aproximadamente</p>
+                                            <p>5 a 6 horas</p>
 
                                         </td>
 
