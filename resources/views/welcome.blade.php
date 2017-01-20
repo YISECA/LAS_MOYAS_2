@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata Sendero Horizontes - Las Moyas 18 de Diciembre de 2016</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata Parque Presa Seca - CANTARRANA 15 de Enero de 2017</div>
 
                     </div>
 <br>
@@ -32,24 +32,24 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/moyas.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/rana.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
-                                <li class="elmnt-two">
+                               <!--  <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/moyas1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/rana1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
-                                  <li class="elmnt-three">
+                                 <li class="elmnt-three">
                                     
                                         <div class="wrap"><img src="public/Img/moyas3.jpg"  height="400">
 
                                         </div>                                 
-                                </li>
+                                </li>-->
 
                             </ul>
 
@@ -75,15 +75,14 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero se encuentra ubicado en la localidad de Chapinero, entre la calle 76 con av. circunvalar y el Barrio San Luis vía a la Calera, limita al norte con la localidad de Usaquén y al sur con la localidad de santa fe.</font></p>
+                        <p><font size="3">La localidad de Usme cuenta con un atractivo ambiental considerado por el Distrito como uno de los pulmones verdes de la ciudad, este es el Parque Ecológico Cantarrana, uno de los sitios más amplios y visitados en la localidad número 5 de la capital, según la Bogotá Humana. Este gran parque, que abrió sus puertas en el año 2007, se ha convertido en uno de los puntos estratégicos para el sistema hídrico de Bogotá, puesto que se encuentra ubicado en la carrera 1A No.100-45 sur, entre los barrios Monteblanco y Brazuelos, en la subcuenca del río Tunjuelos.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en la calle 76 con Av. Circunvalar CAI Rosales, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad. Desde allí se realiza el desplazamiento hacia el inicio del sendero Horizontes, se continua por el sendero hasta la parte alta llegando al páramo, en el recorrido se pasa por tres antenas que nos conducen finalmente a las moyas.
-                        Las moyas son formaciones rocosas que fueron centro astronómico muisca, en este lugar los iniciados como “CHIQUIS”, o sacerdotes muiscas (chamanes) recorrían parte de su camino espiritual para consagrarse como líderes religiosos. En este sitio eran puestos a prueba mental física y emocionalmente. 
-                        La caminata termina en el barrio San Luis vía la Calera donde se toma el SITP que nos lleva a la calle 72.</font></p>
+                        <p><font size="3">Dentro del parque no solamente se pueden apreciar sus grandes zonas verdes, sino que aquellos que visitan este lugar podrán gozar de espacios de recreación, como son la ciclo ruta de 3.5 km, senderos ecológicos, caminos en piedra, pista de patinaje, teatrino, seis miradores, pista de triciclos, zonas de juegos infantiles, biblioteca ambiental y sala de lectura infantil, entre otras.
+                        El acceso al parque es totalmente gratis, por lo que sus puertas están abiertas para todos los bogotanos que quieran disfrutar y recorrer las 76 hectáreas de zonas verdes complementadas con obras de ingeniería y espacios de recreación.</font></p>
 
-                        <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
+                        <!--<h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
                             <li>Miradores</li>
@@ -91,7 +90,7 @@
                             <li>Ecosistema de Páramo</li>
                             <li>Las Moyas</li>
                             </font>
-                        </ul>
+                        </ul>-->
                         <br>
 
                         <font size="4"><center><table width="1000">
@@ -110,7 +109,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>CAI Rosales Av. Circunvalar calle 76 </p>
+                                            <p>carrera 1A No.100-45 sur,</p>
 
                                         </td>
 
@@ -126,7 +125,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 18 de Diciembre de 2016</p>
+                                            <p>Domingo 15 de Enero de 2017</p>
 
                                         </td>
 
@@ -182,7 +181,7 @@
 
 
 
-                                    <tr valign="top">
+                                   <!-- <tr valign="top">
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
@@ -225,7 +224,7 @@
 
                                         </td>
 
-                                    </tr>
+                                    </tr>-->
                                     <tr valign="top">
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">

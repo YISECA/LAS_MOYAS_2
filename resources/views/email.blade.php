@@ -2,7 +2,7 @@
 
 
 
-<h1>Caminata Sendero Horizontes - Las Moyas 18 de Diciembre de 2016</h1>
+<h1>Caminata Parque Presa Seca- Cantarrana 15 de Enero de 2017</h1>
 
 
 
